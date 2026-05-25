@@ -2,9 +2,7 @@
 
 <img src="./frontend//public//logo.png" alt="ZONO Logo" width="80" />
 
-# 📡 ZONO
-
-### Smart Attendance & Institution Management System
+### ZONO - Smart Attendance & Institution Management System
 
 **A full-stack platform where teachers start GPS-verified attendance sessions, students mark presence from their phones, parents track their child's attendance via OTP login, and institution admins manage everything — one dashboard.**
 
