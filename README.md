@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./docs/logo.png" alt="ZONO Logo" width="80" />
+<img src="./frontend//public//logo.png" alt="ZONO Logo" width="80" />
 
 # 📡 ZONO
 
@@ -53,32 +53,33 @@ The core idea is simple:
 ## 🖼️ Screenshots
 
 ### 1. Landing Page
-![Landing Page](./docs/landing.png)
+![Landing Page](./docs/screenshoot/landingPage.png)
 
 ### 2. Roles Selection
-![Roles Page](./docs/roles.png)
+![Roles Page](./docs/screenshoot/roleSelection.png)
 
 ### 3. Teacher / Staff Login
-![Staff Login](./docs/login.png)
+![Staff Login](./docs/screenshoot/login.png)
 
 ### 4. Teacher Home Dashboard
-![Teacher Home](./docs/home.png)
+![Teacher Home](./docs/screenshoot/teacherdashboard.png)
 
 ### 5. GPS Attendance Session
-![Attendance Session](./docs/attendance.png)
+![Attendance Session](./docs/screenshoot/attendence.png)
+![Attendance Session](./docs/screenshoot/attendenceList.png)
 
-### 6. Student Attendance Marking (Mobile)
+<!-- ### 6. Student Attendance Marking (Mobile)
 <p align="center">
   <img src="./docs/student-attendance-mobile.png" alt="Student Attendance Mobile" width="300"/>
-</p>
+</p> -->
 
 ### 7. Log Report Page
-![Log Report](./docs/log-report.png)
-
+![Log Report](./docs/screenshoot/logReport.png)
+<!-- 
 ### 8. Student Report Writing
-![Student Report](./docs/report.png)
+![Student Report](./docs/report.png) -->
 
-### 9. Admin Dashboard
+<!-- ### 9. Admin Dashboard
 ![Admin Dashboard](./docs/admin-dashboard.png)
 
 ### 10. Admin — Teacher Management
@@ -99,7 +100,7 @@ The core idea is simple:
 ![Parent Calendar](./docs/parent-calendar.png)
 
 ### 15. ZonoAdmin Dashboard
-![ZonoAdmin Dashboard](./docs/zono-admin-dashboard.png)
+![ZonoAdmin Dashboard](./docs/zono-admin-dashboard.png) -->
 
 ---
 
